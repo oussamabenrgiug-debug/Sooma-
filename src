@@ -1,1 +1,9 @@
-app.tsx
+export default function App() {
+  return (
+    <div style={{ textAlign: 'center', marginTop: '50px', fontFamily: 'Arial' }}>
+      <h1>مرحباً بك في Sooma--</h1>
+      <p>المشروع الجديد قيد الإنشاء بنجاح!</p>
+    </div>
+  );
+}
+
